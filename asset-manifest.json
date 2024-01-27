@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/atari-commander-home-page/static/css/main.0c5fec5d.css",
+    "main.js": "/atari-commander-home-page/static/js/main.ce3fbfaa.js",
+    "static/js/787.aadca95f.chunk.js": "/atari-commander-home-page/static/js/787.aadca95f.chunk.js",
+    "static/media/AtariClassic-Regular.ttf": "/atari-commander-home-page/static/media/AtariClassic-Regular.94bb4a83a575f25fd137.ttf",
+    "static/media/AtariST8x16SystemFont.eot": "/atari-commander-home-page/static/media/AtariST8x16SystemFont.ddc607f3573db5aa8855.eot",
+    "static/media/AtariST8x16SystemFont.ttf": "/atari-commander-home-page/static/media/AtariST8x16SystemFont.4e2e3b5bdc637038c7dd.ttf",
+    "static/media/AtariClassic-Regular.eot": "/atari-commander-home-page/static/media/AtariClassic-Regular.23e46bd78e04c4c267bf.eot",
+    "static/media/AtariClassic-Regular.woff": "/atari-commander-home-page/static/media/AtariClassic-Regular.a843817dce112f89328a.woff",
+    "static/media/atari-st-low-res.ttf": "/atari-commander-home-page/static/media/atari-st-low-res.b3e0b058417762dc07f6.ttf",
+    "static/media/AtariClassic-Regular.woff2": "/atari-commander-home-page/static/media/AtariClassic-Regular.cb4de8f9eef0962f1e98.woff2",
+    "static/media/atari-st-low-res.eot": "/atari-commander-home-page/static/media/atari-st-low-res.83cf78b395a37f003117.eot",
+    "static/media/AtariST8x16SystemFont.woff": "/atari-commander-home-page/static/media/AtariST8x16SystemFont.3125b0388dfd5f739903.woff",
+    "static/media/AtariST8x16SystemFont.woff2": "/atari-commander-home-page/static/media/AtariST8x16SystemFont.f26491b5f097d0c321fa.woff2",
+    "static/media/floppyA.png": "/atari-commander-home-page/static/media/floppyA.9348081d8476d722e69b.png",
+    "static/media/floppyB.png": "/atari-commander-home-page/static/media/floppyB.b42a6abfc92e40feeadf.png",
+    "static/media/atari-st-low-res.woff": "/atari-commander-home-page/static/media/atari-st-low-res.50414392c47e28cbb11e.woff",
+    "static/media/atari-st-low-res.woff2": "/atari-commander-home-page/static/media/atari-st-low-res.3f30251901f0557559e9.woff2",
+    "static/media/file.png": "/atari-commander-home-page/static/media/file.5f786e6ce2e98e9622ff.png",
+    "index.html": "/atari-commander-home-page/index.html",
+    "static/media/cursor.png": "/atari-commander-home-page/static/media/cursor.7376c12488fe28f10732.png",
+    "static/media/close-icon.png": "/atari-commander-home-page/static/media/close-icon.6ea0b8690031a5fe80df.png",
+    "static/media/background32.png": "/atari-commander-home-page/static/media/background32.56a85a4e75237b03a6fb.png",
+    "main.0c5fec5d.css.map": "/atari-commander-home-page/static/css/main.0c5fec5d.css.map",
+    "main.ce3fbfaa.js.map": "/atari-commander-home-page/static/js/main.ce3fbfaa.js.map",
+    "787.aadca95f.chunk.js.map": "/atari-commander-home-page/static/js/787.aadca95f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c5fec5d.css",
+    "static/js/main.ce3fbfaa.js"
+  ]
+}
